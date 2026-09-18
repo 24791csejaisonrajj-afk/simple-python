@@ -1,2 +1,5 @@
-# simple-python
-A simple python application
+# Add two numbers
+a = 10
+b = 20
+sum = a + b
+print("The sum is:", sum)
